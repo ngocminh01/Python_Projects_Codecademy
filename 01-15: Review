@@ -1,0 +1,5 @@
+my_age = 22
+half_my_age = 22/2
+greeting = "Hello"
+name = "Mint"
+greeting_with_name = greeting + name
