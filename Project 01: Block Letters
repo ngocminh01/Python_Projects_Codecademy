@@ -1,3 +1,13 @@
+1. Take a look at the complete alphabet and find your initials.
+Notice how each block letter is 7x5 and formed by the letter itself.
+2. First, write two comments with:
+Your first and last name.
+A fun fact about yourself.
+3. Output your first initial as a block letter. There are a few ways to do this!
+Press Save to run your program.
+4. Output your second initial as a block letter by adding to the print() statements.
+Press Save to run your program.
+
 # Minh Pham
 # Fun Fact: I loved coding very much.
 print("M   M  IIIII  N   N  H   H")
